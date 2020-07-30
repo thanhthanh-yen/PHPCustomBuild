@@ -1,5 +1,5 @@
 {
-    "name": "thanhvtt/php-client-0.5.2",
+    "name": "thanhvtt/php-client-old",
     "type": "library",
     "require": {
         "php": "^7"
