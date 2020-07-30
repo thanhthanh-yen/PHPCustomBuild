@@ -1,0 +1,17 @@
+{
+    "name": "thanhvtt/php-client-0.5.2",
+    "type": "library",
+    "require": {
+        "php": "^7"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "thanhthanh-yen",
+            "email": "thanh1.vuthithanh@toshiba.co.jp"
+        }
+     ],
+    "autoload": {
+        "classmap": ["src/"]
+}
+}
