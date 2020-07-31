@@ -12,6 +12,6 @@
         }
      ],
     "autoload": {
-        "classmap": ["src/"]
+        "classmap": ["griddb_php_client.php"]
 }
 }
