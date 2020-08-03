@@ -10,8 +10,5 @@
             "name": "thanhthanh-yen",
             "email": "thanh1.vuthithanh@toshiba.co.jp"
         }
-     ],
-    "autoload": {
-        "classmap": ["griddb_php_client.php"]
-}
+     ]
 }
