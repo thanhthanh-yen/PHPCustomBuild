@@ -2,7 +2,7 @@
     "name": "thanhvtt/php-client-old",
     "type": "library",
     "require": {
-        "php": "^7"
+        "php": "^7.4"
     },
     "license": "Apache-2.0",
     "authors": [
